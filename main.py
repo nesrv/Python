@@ -12,3 +12,4 @@ for i in range(len(s)-2):
        and s[i]!=s[i+1] and s[i+1]!=s[i+2]: # проверка повтора символов
       k += 1
 print(k)
+print(k)
